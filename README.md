@@ -5,8 +5,7 @@
 > reasons over it, and delivers structured answers.
 
 ## 📸 Screenshots
-![Demo](<img width="1600" height="803" alt="WhatsApp Image 2026-04-20 at 8 08 34 AM" src="https://github.com/user-attachments/assets/88c0eee7-3a8f-4b61-95a9-7081436a6061" />
-)
+<img width="1600" height="803" alt="WhatsApp Image 2026-04-20 at 8 08 34 AM" src="https://github.com/user-attachments/assets/88c0eee7-3a8f-4b61-95a9-7081436a6061" />
 
 ## Live Demo
 🌐 [curalink-ai.vercel.app](https://curalink-ai-mu.vercel.app/)
