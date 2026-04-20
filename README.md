@@ -7,8 +7,8 @@
 ![Demo](link-to-screenshot)
 
 ## Live Demo
-🌐 [curalink-ai.vercel.app](your-vercel-url)
-🎥 [Watch Demo](your-loom-url)
+🌐 [curalink-ai.vercel.app](https://curalink-ai-mu.vercel.app/)
+🎥 [Watch Demo](https://www.loom.com/share/543c1d7db0204c27a8cb65a87180f601)
 
 ## Architecture
 
