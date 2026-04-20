@@ -6,17 +6,11 @@
 
 ## 📸 Screenshots
 <img width="1600" height="803" alt="WhatsApp Image 2026-04-20 at 8 08 34 AM" src="https://github.com/user-attachments/assets/88c0eee7-3a8f-4b61-95a9-7081436a6061" />
-
-
-
+.
 <img width="1370" height="873" alt="WhatsApp Image 2026-04-20 at 8 17 16 AM" src="https://github.com/user-attachments/assets/9fdda48c-02f7-46d5-8e33-8dedca7cb80f" />
-
-
-
+.
 <img width="1284" height="905" alt="WhatsApp Image 2026-04-20 at 8 17 51 AM" src="https://github.com/user-attachments/assets/52d52178-1d6e-4ca3-a2d7-11f2c3828e26" />
-
-
-
+.
 <img width="1161" height="911" alt="WhatsApp Image 2026-04-20 at 8 18 22 AM" src="https://github.com/user-attachments/assets/0eaf7221-b2e3-4c55-88a0-8361b78acf3c" />
 
 ## Live Demo
