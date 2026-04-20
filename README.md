@@ -26,6 +26,9 @@ User → Vercel (React) → Railway (Express)
                       → ClinicalTrials.gov API
                       → OpenAlex API
 
+<img width="953" height="705" alt="image" src="https://github.com/user-attachments/assets/1f5fe440-e593-4a1c-a4c3-62b3198dca30" />
+
+
 ## Pipeline
 1. **Query Expansion** — LLM combines disease + intent 
    into precision search string
