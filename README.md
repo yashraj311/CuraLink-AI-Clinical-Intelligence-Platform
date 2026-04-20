@@ -4,8 +4,8 @@
 > understands clinical context, retrieves deep research, 
 > reasons over it, and delivers structured answers.
 
-![Demo](<img width="1600" height="803" alt="WhatsApp Image 2026-04-20 at 8 08 34 AM" src="https://github.com/user-attachments/assets/ee609989-09c1-4f5b-9745-7fc362a203d2" />
-)
+## 📸 Screenshots
+![Demo]()
 
 ## Live Demo
 🌐 [curalink-ai.vercel.app](https://curalink-ai-mu.vercel.app/)
