@@ -5,14 +5,13 @@
 > reasons over it, and delivers structured answers.
 
 ## 📸 Screenshots
+<img width="1600" height="803" alt="c1" src="https://github.com/user-attachments/assets/bf189928-013d-4e77-b8a3-383082cdc0a7" />
+.
+<img width="1370" height="873" alt="c2" src="https://github.com/user-attachments/assets/df75f04a-59fb-4fd9-8eb4-59e6b9f034f5" />
+.
 <img width="1284" height="905" alt="c3" src="https://github.com/user-attachments/assets/7b69521e-1a5c-4179-b3bb-190696c9efe0" />
-
 .
-<img width="1370" height="873" alt="WhatsApp Image 2026-04-20 at 8 17 16 AM" src="https://github.com/user-attachments/assets/9fdda48c-02f7-46d5-8e33-8dedca7cb80f" />
-.
-<img width="1284" height="905" alt="WhatsApp Image 2026-04-20 at 8 17 51 AM" src="https://github.com/user-attachments/assets/52d52178-1d6e-4ca3-a2d7-11f2c3828e26" />
-.
-<img width="1161" height="911" alt="WhatsApp Image 2026-04-20 at 8 18 22 AM" src="https://github.com/user-attachments/assets/0eaf7221-b2e3-4c55-88a0-8361b78acf3c" />
+<img width="1161" height="911" alt="c4" src="https://github.com/user-attachments/assets/c58d53d3-4e69-4bdd-a00d-6a2a3d732d6e" />
 
 ## Live Demo
 🌐 [curalink-ai.vercel.app](https://curalink-ai-mu.vercel.app/)
