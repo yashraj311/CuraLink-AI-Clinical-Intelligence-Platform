@@ -5,7 +5,8 @@
 > reasons over it, and delivers structured answers.
 
 ## 📸 Screenshots
-<img width="1600" height="803" alt="WhatsApp Image 2026-04-20 at 8 08 34 AM" src="https://github.com/user-attachments/assets/88c0eee7-3a8f-4b61-95a9-7081436a6061" />
+<img width="1284" height="905" alt="c3" src="https://github.com/user-attachments/assets/7b69521e-1a5c-4179-b3bb-190696c9efe0" />
+
 .
 <img width="1370" height="873" alt="WhatsApp Image 2026-04-20 at 8 17 16 AM" src="https://github.com/user-attachments/assets/9fdda48c-02f7-46d5-8e33-8dedca7cb80f" />
 .
