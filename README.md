@@ -4,6 +4,9 @@
 > understands clinical context, retrieves deep research, 
 > reasons over it, and delivers structured answers.
 
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Stack](https://img.shields.io/badge/stack-React(Vercel)%20%7C%20Node.js+express.js(Railway)%20%7C%20MongoDB_Atlas%20%7C%20Groq(llama_3.1_8b_instant)%20%7C%20APIs(PubMed,ClinicalTrials.gov,OpenAlex)-purple)
+
 ## 📸 Screenshots
 <img width="1600" height="803" alt="c1" src="https://github.com/user-attachments/assets/bf189928-013d-4e77-b8a3-383082cdc0a7" />
 .
